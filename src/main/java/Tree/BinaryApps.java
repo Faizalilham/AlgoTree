@@ -29,10 +29,10 @@ public class BinaryApps {
     
         System.out.println("Traversal dengan Preorder : ");
         binding.preOrder();
-        System.out.println("\nTraversal dengan Inorder : " );
-        binding.inOrder();
         System.out.println("\nTraversal dengan Postorder : " );
         binding.postOrder();
+        System.out.println("\nTraversal dengan Inorder : " );
+        binding.inOrder();
         System.out.println();
         System.out.println("Hai Faizal");
         
